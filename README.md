@@ -1,4 +1,4 @@
-👋 Hi there, I’m Kevin Kipkoech. This is where I build lots of cool full stack development stuff.
+👋 Hi there, I’m **Kevin Kipkoech**. This is where I build lots of cool full stack development stuff.
 
 Glad you're here!
 
@@ -8,6 +8,8 @@ Glad you're here!
 
 
 <!--START_SECTION:waka-->
+
+**This week I spent my time on:**
 
 ```text
 JavaScript   3 hrs 6 mins    ███████████████░░░░░░░░░░   60.63 %
