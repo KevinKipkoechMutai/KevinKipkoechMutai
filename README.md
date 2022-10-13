@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Kevin Kipkoech.
-- 👀 I’m interested in software development. My tech stack includes JS, HTML5, CSS3, React.js, Ruby on Rails, and SQL.   
-- 🌱 I’m currently learning full-stack software development at Moringa School. 
-- 💞️ I’m looking to collaborate on lots of projects from here hencefort. 
-- 📫 How to reach me: kevin.kipkoech@student.moringaschool.com
+👋 Hi there, I’m Kevin Kipkoech. This is where I build lots of cool full stack development stuff.
 
-<!---
-KevinKipkoechMutai/KevinKipkoechMutai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Glad you're here!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KevinKipkoechMutai)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
