@@ -2,14 +2,14 @@
 
 Glad you're here!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KevinKipkoechMutai)
+![Visitor Count](https://profile-counter.glitch.me/KevinKipkoechMutai/count.svg)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 **Top Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai&layout=compact)](https://github.com/KevinKipkoechMutai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai)](https://github.com/KevinKipkoechMutai/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
