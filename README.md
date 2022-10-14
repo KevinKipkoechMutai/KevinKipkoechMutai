@@ -9,15 +9,13 @@ Glad you're here!
 
 <!--START_SECTION:waka-->
 
-**This week I spent my time on:**
-
 ```text
-JavaScript   3 hrs 6 mins    ███████████████░░░░░░░░░░   60.63 %
-JSON         1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.21 %
-CSS          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Markdown     22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Text         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JavaScript   26 mins         █████████▒░░░░░░░░░░░░░░░   37.77 %
+JSON         18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
+Markdown     17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+Text         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
