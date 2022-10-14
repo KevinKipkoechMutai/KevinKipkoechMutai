@@ -7,9 +7,13 @@ Glad you're here!
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
+**Top Languages**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai&layout=compact)](https://github.com/KevinKipkoechMutai/github-readme-stats)
+
+
 <!--START_SECTION:waka-->
 
-**This is what I have done this week**
+**This is what I have done this week:**
 
 ```text
 JavaScript   26 mins         █████████▒░░░░░░░░░░░░░░░   37.77 %
