@@ -15,15 +15,10 @@ Glad you're here!
 
 <!--START_SECTION:waka-->
 
-**This is what I have done this week:**
-
 ```text
-JavaScript   26 mins         █████████▒░░░░░░░░░░░░░░░   37.77 %
-JSON         18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
-Markdown     17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-Text         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JavaScript   2 mins          ████████████████░░░░░░░░░   63.94 %
+HTML         1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
+CSS          0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
 ```
 
 <!--END_SECTION:waka-->
