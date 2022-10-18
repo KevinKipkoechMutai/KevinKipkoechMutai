@@ -31,6 +31,8 @@ HTML         2 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+**Tools and languages:**
+
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
