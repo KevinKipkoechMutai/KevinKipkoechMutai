@@ -10,7 +10,7 @@ Glad you're here!
 
 **Top Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai)](https://github.com/KevinKipkoechMutai/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinKipkoechMutai"/>
 
 
 **What I have done this week**
