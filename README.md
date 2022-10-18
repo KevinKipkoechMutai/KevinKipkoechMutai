@@ -37,6 +37,4 @@ HTML         2 mins          ▒░░░░░░░░░░░░░░░░
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
-[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
-[![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+
