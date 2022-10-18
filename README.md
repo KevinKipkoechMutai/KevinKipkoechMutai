@@ -4,17 +4,19 @@ Glad you're here!
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kevin-kipkoech.medium.com/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-kipkoech-651a15108)
-[![](/twitter/url?url=https%3A%2F%2Fshields.io)](https://www.twitter.com/KevinKipkoechM1)
+
 
 **Profile Visits:**
 ![Visitor Count](https://profile-counter.glitch.me/KevinKipkoechMutai/count.svg)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+\[![My github stats](https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKipkoechMutai/github-readme-stats)
 
 
-**Top Languages:**
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKipkoechMutai/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinKipkoechMutai"/>
+
+[![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKIpkoechMutai/github-readme-streak-stats)
 
 
 **What I have done this week**
