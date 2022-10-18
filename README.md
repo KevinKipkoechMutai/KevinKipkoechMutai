@@ -13,7 +13,7 @@ Glad you're here!
 ![My github stats](https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&theme=blue-green)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai)](https://github.com/KevinKipkoechMutai/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai&theme=tokyonight)
 
 
 [![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKIpkoechMutai/github-readme-streak-stats)
