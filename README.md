@@ -2,6 +2,10 @@
 
 Glad you're here!
 
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kevin-kipkoech.medium.com/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-kipkoech-651a15108)
+[![](/twitter/url?url=https%3A%2F%2Fshields.io)](https://www.twitter.com/KevinKipkoechM1)
+
 **Profile Visits:**
 ![Visitor Count](https://profile-counter.glitch.me/KevinKipkoechMutai/count.svg)
 
