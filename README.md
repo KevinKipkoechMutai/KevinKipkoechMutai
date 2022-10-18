@@ -10,7 +10,7 @@ Glad you're here!
 ![Visitor Count](https://profile-counter.glitch.me/KevinKipkoechMutai/count.svg)
 
 
-\[![My github stats](https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKipkoechMutai/github-readme-stats)
+\[![My github stats](https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&theme=blue-green)]
 
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKipkoechMutai/github-readme-stats)
@@ -19,7 +19,7 @@ Glad you're here!
 [![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKIpkoechMutai/github-readme-streak-stats)
 
 
-**What I have done this week**
+**What I have done this week:**
 <!--START_SECTION:waka-->
 
 ```text
