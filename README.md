@@ -20,10 +20,8 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         20 hrs 41 mins  █████████████████████████   99.61 %
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Ruby         19 hrs 56 mins  ████████████████████████▓   98.38 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
