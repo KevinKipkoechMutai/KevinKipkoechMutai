@@ -1,4 +1,4 @@
-👋 Hi there, I’m **Kevin Kipkoech**. This is where I build lots of cool full stack development stuff.
+👋 Hi there, I’m **Kevin Kipkoech**. This is where I learn to code and build lots of cool full stack development stuff.
 
 Glad you're here!
 
