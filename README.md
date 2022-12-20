@@ -14,7 +14,7 @@ Glad you're here!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai&theme=transparent"/>
 
-[![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinKipkoechMutai&theme=blue-green&theme=transparent)](https://github.com/KevinKIpkoechMutai/github-readme-streak-stats)
+[![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKIpkoechMutai/github-readme-streak-stats)
 
 
 **What I have done this week:**
