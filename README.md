@@ -10,7 +10,9 @@ Glad you're here!
 ![Visitor Count](https://profile-counter.glitch.me/KevinKipkoechMutai/count.svg)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&show_icons=true&theme=transparent)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai&theme=transparent"/>
 
 [![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKIpkoechMutai/github-readme-streak-stats)
 
