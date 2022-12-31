@@ -21,8 +21,7 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```text
-CSS          3 hrs 16 mins   ██████████████████▒░░░░░░   73.53 %
-JavaScript   1 hr 10 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
