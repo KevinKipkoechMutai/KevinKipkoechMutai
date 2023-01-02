@@ -1,4 +1,8 @@
-👋 Hi there, I’m **Kevin Kipkoech**. I am learning to code to become a full-stack software engineer. My focus is React.js for front-end and Ruby on Rails for back-end development.
+👋 Hi there, I’m **Kevin Kipkoech**. I am learning to code to become a full-stack software engineer.
+
+Frontend technologies: React.js and React.ts
+
+Backend technologies: Ruby on Rails, Node.js
 
 Glad you're here!
 
