@@ -18,10 +18,6 @@ Glad you're here!
 ![Visitor Count](https://profile-counter.glitch.me/KevinKipkoechMutai/count.svg)
 
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&show_icons=true&theme=transparent)
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKipkoechMutai&theme=github_dark&layout=compact&hide_border=true"></a>
-
 [![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinKipkoechMutai&theme=blue-green)](https://github.com/KevinKIpkoechMutai/github-readme-streak-stats)
 
 
