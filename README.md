@@ -37,7 +37,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinKipkoechMutai&repo=CompsAnalytics-Frontend"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinKipkoechMutai&repo=CompsAnalytics-Frontend&theme=blue-green"/>
 
 **Tools and languages:**
 
