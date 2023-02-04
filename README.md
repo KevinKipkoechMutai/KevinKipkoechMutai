@@ -28,7 +28,9 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   37 mins         █████████████████░░░░░░░░   68.10 %
+CSS          17 mins         ████████░░░░░░░░░░░░░░░░░   31.61 %
+Ruby         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
