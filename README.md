@@ -28,10 +28,10 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   18 hrs 37 mins  ████████████████▒░░░░░░░░   65.07 %
-CSS          9 hrs 34 mins   ████████▒░░░░░░░░░░░░░░░░   33.44 %
-Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JavaScript   18 hrs 57 mins  █████████████████▒░░░░░░░   69.94 %
+CSS          7 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   28.67 %
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
