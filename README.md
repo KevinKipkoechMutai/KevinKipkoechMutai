@@ -28,9 +28,10 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 56 mins   ███████████████████████▒░   93.55 %
-JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JavaScript   5 hrs 30 mins   ██████████████████████▒░░   89.23 %
+CSS          28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
