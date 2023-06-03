@@ -27,12 +27,12 @@ Glad you're here!
 **What I have done this week:**
 <!--START_SECTION:waka-->
 
-```text
-ERB          3 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   37.37 %
-JavaScript   3 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   35.76 %
-Ruby         1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   19.74 %
-SCSS         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+```txt
+ERB          3 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.12 %
+JavaScript   2 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.72 %
+Ruby         1 hr 42 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
+SCSS         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
