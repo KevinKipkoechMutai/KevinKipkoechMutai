@@ -28,9 +28,7 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-ERB    1 hr 49 mins    ██████████████▒░░░░░░░░░░   57.05 %
-Ruby   1 hr 3 mins     ████████▒░░░░░░░░░░░░░░░░   33.30 %
-SCSS   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+ERB   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
