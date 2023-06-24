@@ -4,9 +4,9 @@
 
 I am a full-stack software engineer.
 
-Frontend technologies: React.js and React.ts
+Frontend technologies: React, Ruby on Rails, NextJS
 
-Backend technologies: Ruby on Rails, Node.js
+Backend technologies: NodeJS, Python, Ruby on Rails, Golang
 
 Glad you're here!
 
