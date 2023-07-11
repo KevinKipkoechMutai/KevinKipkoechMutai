@@ -30,11 +30,11 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   16 hrs 27 mins  ███████████████░░░░░░░░░░   59.82 %
-JavaScript   8 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   32.03 %
-JSON         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-CSS          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-TSConfig     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+TypeScript   15 hrs 27 mins  █████████████▓░░░░░░░░░░░   54.10 %
+JavaScript   11 hrs 18 mins  ██████████░░░░░░░░░░░░░░░   39.56 %
+JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+TSConfig     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
