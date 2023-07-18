@@ -30,9 +30,7 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 29 mins   █████████████████████████   99.41 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
