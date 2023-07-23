@@ -30,7 +30,11 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 20 mins    ██████████████▓░░░░░░░░░░   58.72 %
+JavaScript   49 mins         █████████░░░░░░░░░░░░░░░░   36.40 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
