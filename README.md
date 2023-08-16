@@ -30,11 +30,9 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         9 mins          █████████▓░░░░░░░░░░░░░░░   38.95 %
-MATLAB       7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-TypeScript   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
-JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+MATLAB     7 mins          ███████████████████████▓░   94.90 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
