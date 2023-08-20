@@ -30,9 +30,8 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB     7 mins          ███████████████████████▓░   94.90 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Markdown   0 secs          █████████████▓░░░░░░░░░░░   55.04 %
+MATLAB     0 secs          ███████████▒░░░░░░░░░░░░░   44.96 %
 ```
 
 <!--END_SECTION:waka-->
