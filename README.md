@@ -30,7 +30,10 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          █████████████████████████   100.00 %
+TypeScript   2 hrs 13 mins   █████████████▓░░░░░░░░░░░   54.92 %
+Ruby         1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+ERB          30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+YAML         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
