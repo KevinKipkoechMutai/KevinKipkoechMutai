@@ -30,11 +30,11 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          4 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   45.75 %
-TypeScript   3 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.45 %
-Ruby         1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-Python       44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+SQL          4 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.73 %
+Python       2 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+TypeScript   2 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+Ruby         45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
