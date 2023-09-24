@@ -30,8 +30,7 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 16 mins   █████████████████████████   99.48 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript   2 hrs 19 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
