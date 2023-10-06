@@ -30,7 +30,8 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   34 mins         ████████████████████████▓   98.35 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
