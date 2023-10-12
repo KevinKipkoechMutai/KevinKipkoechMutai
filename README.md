@@ -30,8 +30,9 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 37 mins   █████████████████████████   99.63 %
+Python   2 hrs 37 mins   █████████████████████████   99.50 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Ruby     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
