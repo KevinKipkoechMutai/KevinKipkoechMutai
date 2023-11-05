@@ -28,11 +28,11 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 57 mins   ████████████████▒░░░░░░░░   64.97 %
-TypeScript   1 hr 40 mins    ███████░░░░░░░░░░░░░░░░░░   27.48 %
-JavaScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       4 hrs 33 mins   █████████████████▒░░░░░░░   69.69 %
+TypeScript   1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   23.77 %
+JavaScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
