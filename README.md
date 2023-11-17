@@ -28,9 +28,7 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 56 mins   ████████████████████████▓   98.76 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python   2 hrs 6 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
