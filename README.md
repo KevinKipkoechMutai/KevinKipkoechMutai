@@ -28,11 +28,7 @@ Glad you're here!
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         34 mins         ████████████▓░░░░░░░░░░░░   50.76 %
-YAML         18 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-TypeScript   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TypeScript   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
