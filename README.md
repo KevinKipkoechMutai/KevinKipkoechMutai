@@ -4,9 +4,9 @@
 
 I am a full-stack software engineer & data analyst.
 
-Programming Languages: JavaScript, TypeScript, Ruby, Python
+Programming Languages: JavaScript, TypeScript, Ruby, Python, Go
 
-Frameworks: NextJS, NodeJS, React, Ruby on Rails, Flask, FastAPI
+Frameworks: NextJS, NodeJS, React, Ruby on Rails, Flask, FastAPI, Gin, Beego, Net/Http, Martini
 
 Glad you're here!
 
