@@ -27,11 +27,11 @@ Interested in my skills? Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Go                5 hrs 55 mins   ███████████████████████░░   92.22 %
-Text              13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-JavaScript        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Other             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-HTML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Go                4 hrs 55 mins   ███████████████████████▓░   94.80 %
+JavaScript        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Other             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+HTML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
