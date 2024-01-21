@@ -27,11 +27,10 @@ Interested in my skills? Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       19 mins         █████████░░░░░░░░░░░░░░░░   35.59 %
-INI        16 mins         ███████▓░░░░░░░░░░░░░░░░░   31.06 %
-YAML       12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
-Docker     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+INI      16 mins         █████████▒░░░░░░░░░░░░░░░   37.70 %
+YAML     12 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
+Bash     9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+Docker   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
 ```
 
 <!--END_SECTION:waka-->
