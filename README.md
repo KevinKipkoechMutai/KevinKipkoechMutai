@@ -27,9 +27,9 @@ Interested in my skills? Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python     6 hrs 28 mins   ███████████████████░░░░░░   75.62 %
-Go         2 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python     5 hrs 8 mins    ████████████████▓░░░░░░░░   66.26 %
+Go         2 hrs 35 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
