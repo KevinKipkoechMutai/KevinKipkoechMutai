@@ -27,10 +27,11 @@ Interested in my skills? Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         5 mins          ██████████▓░░░░░░░░░░░░░░   43.10 %
-SCSS         3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-JavaScript   2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Bash         5 mins          ███████▓░░░░░░░░░░░░░░░░░   31.23 %
+Ruby         4 mins          ███████░░░░░░░░░░░░░░░░░░   27.54 %
+SCSS         3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+JavaScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Other        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
 
 <!--END_SECTION:waka-->
