@@ -27,10 +27,9 @@ Interested in my skills? Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 7 mins    ███████████████████████▒░   93.77 %
-JavaScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   4 hrs 42 mins   ███████████████████████▓░   95.07 %
+JavaScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
