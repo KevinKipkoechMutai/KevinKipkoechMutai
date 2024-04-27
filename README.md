@@ -27,8 +27,8 @@ Interested in my skills? Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python       50 mins         ████████████████▓░░░░░░░░   67.32 %
-TypeScript   24 mins         ████████░░░░░░░░░░░░░░░░░   32.54 %
+Python       50 mins         █████████████████▒░░░░░░░   69.66 %
+TypeScript   21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.19 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
