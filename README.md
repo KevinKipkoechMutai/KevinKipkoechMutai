@@ -2,13 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kevin Kipkoech
 
-I am a full-stack software engineer. Lots of backend development. And the occasional frontend work.
+I am a full-stack software engineer. 
 
-Programming Languages: JavaScript, TypeScript, Ruby, Python, Go
+Proficient in NextJS, TypeScript, Python, and Go. 
 
-Technologies: React, NodeJS, NextJS, Ruby on Rails, FastAPI, Django, Flask
-
-Interested in my skills? Reach out on mutaikevinkip.05@gmail.com 
+Interested in my skillset? Reach out on mutaikevinkip.05@gmail.com 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-kipkoech-651a15108)
 
