@@ -25,11 +25,11 @@ Interested in my skillset? Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    15 hrs 35 mins  ██████████████████████▒░░   89.95 %
-JavaScript    35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Other         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Git Config    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-CSS           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+TypeScript    14 hrs 40 mins  ██████████████████████▓░░   91.07 %
+JavaScript    35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Git Config    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Markdown      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
