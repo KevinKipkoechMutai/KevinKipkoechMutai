@@ -6,15 +6,13 @@ I am a full-stack software engineer.
 
 Proficient in NextJS, TypeScript, Python, and Go. 
 
-Interested in my skillset? Reach out on mutaikevinkip.05@gmail.com 
+Let's talk! Reach out on mutaikevinkip.05@gmail.com 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-kipkoech-651a15108)
 
 
 **Profile Visits:**
 ![Visitor Count](https://profile-counter.glitch.me/KevinKipkoechMutai/count.svg)
-
-<img src="https://github-readme-stats.vercel.app/api?username=KevinKipkoechMutai&show_icons=true&theme=blue-green"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinKipkoechMutai&layout=compact&theme=blue-green"/>
 
