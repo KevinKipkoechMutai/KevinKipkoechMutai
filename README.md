@@ -23,11 +23,11 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 3 mins     █████████░░░░░░░░░░░░░░░░   36.21 %
-HTML         54 mins         ███████▓░░░░░░░░░░░░░░░░░   30.85 %
-Python       48 mins         ███████░░░░░░░░░░░░░░░░░░   27.48 %
-TypeScript   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+JavaScript   1 hr 23 mins    ██████████████▓░░░░░░░░░░   58.36 %
+TypeScript   30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+HTML         20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Python       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
