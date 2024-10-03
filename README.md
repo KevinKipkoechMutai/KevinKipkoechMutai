@@ -23,11 +23,11 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python       17 hrs 13 mins  ██████████████████████▒░░   89.68 %
-Bash         1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-HTML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-INI          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python       14 hrs 40 mins  ██████████████████████▒░░   88.94 %
+Bash         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+HTML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
