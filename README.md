@@ -23,7 +23,11 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   42 mins         ███████████████████▒░░░░░   77.93 %
+HTML     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Bash     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Text     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
