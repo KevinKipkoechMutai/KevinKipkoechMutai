@@ -23,10 +23,7 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   13 mins         ██████████████▓░░░░░░░░░░   58.65 %
-Bash         7 mins          ████████░░░░░░░░░░░░░░░░░   32.57 %
-JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
