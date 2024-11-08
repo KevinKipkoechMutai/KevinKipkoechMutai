@@ -23,7 +23,9 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 mins          █████████████████████████   100.00 %
+Python   3 mins          ██████████████████░░░░░░░   72.38 %
+Ruby     1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+Other    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
