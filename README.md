@@ -23,11 +23,7 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python        2 hrs 17 mins   ██████████████████▒░░░░░░   72.78 %
-TypeScript    47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.36 %
-Other         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-JSON          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python   2 hrs 17 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
