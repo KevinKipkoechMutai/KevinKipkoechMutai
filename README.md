@@ -4,7 +4,7 @@
 
 Fullstack + Data/AI/ML
 
-Proficient in Python and TypeScript
+Proficient in Python, SQL, TypeScript
 
 Frameworks: FastAPI, LangChain, NextJS, React
 
