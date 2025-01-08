@@ -23,11 +23,11 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 19 mins   ███████████████████▓░░░░░   79.17 %
-Text         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Other        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Docker       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Python       8 hrs 16 mins   █████████████████████░░░░   84.03 %
+Text         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Docker       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
