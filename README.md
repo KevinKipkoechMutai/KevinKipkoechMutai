@@ -6,7 +6,7 @@ Fullstack + Data/AI/ML
 
 Proficient in Python, SQL, TypeScript
 
-Frameworks: FastAPI, LangChain, NextJS, React
+Frameworks: FastAPI, Django, LangChain, NextJS, React
 
 Let's talk! Reach out on mutaikevinkip.05@gmail.com 
 
