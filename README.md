@@ -25,10 +25,7 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     11 mins         ██████████████░░░░░░░░░░░   56.17 %
-Text     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-Python   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Docker   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
