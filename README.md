@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kevin Kipkoech
 
-Fullstack + Data/AI/ML
+Fullstack + Data/AI/ML + AWS Solutions Architect
 
-Proficient in Python, SQL, TypeScript
+Proficient in Python, SQL, TypeScript, AWS
 
-Frameworks: FastAPI, Django, LangChain, NextJS, React
+Frameworks: FastAPI, Django, LangChain, NextJS
 
 Let's talk! Reach out on mutaikevinkip.05@gmail.com 
 
