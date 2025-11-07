@@ -25,7 +25,7 @@ Let's talk! Reach out on mutaikevinkip.05@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Other   7 hrs 24 mins   █████████████████████████   100.00 %
+Other   3 hrs 36 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
