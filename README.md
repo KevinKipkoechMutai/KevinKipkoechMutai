@@ -4,6 +4,8 @@
 
 Software engineer. 5+ years under my belt. I work with Python, TypeScript, Go, and C with work covering web development, IoT, data, and AI/ML. 
 
+I also dabble in software arcvhitecture, especially in the world of AWS. I have perfected the art of weighting tradeoffs such as consistency vs availability against each other. 
+
 AI is my latest obsession. I consistently work with/on automation workflow integration. THink AI agents and RAG systems. 
 
 Contact me on mutaikevinkip.05@gmail.com 
