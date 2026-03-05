@@ -4,11 +4,17 @@
 
 Software engineer. 5+ years under my belt. I work with Python, TypeScript, Go, and C with work covering web development, IoT, data, and AI/ML. 
 
-I also dabble in software arcvhitecture, especially in the world of AWS. I have perfected the art of weighting tradeoffs such as consistency vs availability against each other. 
+The frameworks I use the most: NextJS, React, FastAPI
 
-AI is my latest obsession. I consistently work with/on automation workflow integration. THink AI agents and RAG systems. 
+I also dabble in system architecture, particularly on AWS. I have perfected the art of weighting tradeoffs such as consistency vs availability against each other. 
 
-Contact me on mutaikevinkip.05@gmail.com 
+AI is my latest obsession. I consistently work with/on automation workflow integration. THink AI agents and RAG systems.
+
+AI: I consistently integrate models into web apps and orchestrate agents to automate systems. 
+
+Need to someone to build something end to end? Let's talk!
+
+Contact me on mutaikevinkip.05@gmail.com
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-kipkoech-651a15108)
 
