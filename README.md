@@ -8,8 +8,6 @@ The frameworks I use the most: NextJS, React, FastAPI
 
 I also dabble in system architecture, particularly on AWS. I have perfected the art of weighting tradeoffs such as consistency vs availability against each other. 
 
-AI is my latest obsession. I consistently work with/on automation workflow integration. THink AI agents and RAG systems.
-
 AI: I consistently integrate models into web apps and orchestrate agents to automate systems. 
 
 Need to someone to build something end to end? Let's talk!
